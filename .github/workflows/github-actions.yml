@@ -28,5 +28,5 @@ jobs:
           username: edanpiro
           password: ${{ secrets.API_TOKEN }}
           registry: docker.pkg.github.com
-          repository: edanpiro/demo-html
+          repository: edanpiro/react-redux/demo-html
           tag_with_sha: true
